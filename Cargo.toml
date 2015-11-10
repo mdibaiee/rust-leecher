@@ -1,0 +1,9 @@
+[package]
+name = "leecher"
+version = "0.1.0"
+authors = ["Mahdi Dibaiee <mdibaiee@aol.com>"]
+
+[dependencies]
+hyper = "0.6.15"
+url = "0.2.37"
+log = "0.3"
